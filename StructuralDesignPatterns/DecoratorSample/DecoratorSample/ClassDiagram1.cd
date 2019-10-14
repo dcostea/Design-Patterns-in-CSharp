@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DecoratorSample.Ferrari" BaseTypeListCollapsed="true">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAgAA=</HashCode>
+      <FileName>Ferrari.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DecoratorSample.Hireable">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <InheritanceLine Type="DecoratorSample.VehicleDecoratorBase" ManuallyRouted="true">
+      <Path>
+        <Point X="7.75" Y="3.542" />
+        <Point X="7.25" Y="3.542" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hireable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorSample.SpecialOffer">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAACgAA=</HashCode>
+      <FileName>SpecialOffer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorSample.VehicleDecoratorBase">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAIAAAAAAAgAAAIAgAA=</HashCode>
+      <FileName>VehicleDecoratorBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="DecoratorSample.IVehicle">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAgAA=</HashCode>
+      <FileName>IVehicle.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

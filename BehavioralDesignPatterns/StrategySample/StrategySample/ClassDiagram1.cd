@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StrategySample.MergeSort">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MergeSort.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StrategySample.QuickSort">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QuickSort.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StrategySample.ShellSort">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShellSort.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StrategySample.SortedList">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAgAAAAAAAAEAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SortedList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StrategySample.SortStrategy">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SortStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
